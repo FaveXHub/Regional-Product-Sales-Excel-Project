@@ -7,7 +7,7 @@ This project analyzes a retail sales dataset using Excel PivotTables, PivotChart
 
 ---
 
-Project Objectives
+##Project Objectives
 
 Convert raw sales data into a structured Excel table
 
@@ -23,7 +23,7 @@ Design a clean, user-friendly sales dashboard
 
 ---
 
-Tools & Skills Used
+##Tools & Skills Used
 
 Microsoft Excel
 
@@ -39,7 +39,7 @@ Data Visualization & KPI Reporting
 
 ---
 
-Process Overview
+##Process Overview
 
 1. Cleaned and structured the dataset
 
@@ -63,7 +63,7 @@ Process Overview
 
 ---
 
-Dashboard Features
+##Dashboard Features
 
 Total Revenue & Quantity KPI cards
 
@@ -81,7 +81,7 @@ Fully interactive slicers for real-time filtering
 
 ---
 
-Key Insights
+##Key Insights
 
 Laptops, Tablets and Printers generated the highest revenue
 
@@ -94,7 +94,7 @@ Laptop is the top performer in both revenue and quantity
 
 ---
 
-How to Use
+##How to Use
 
 1. Download and open the Excel file
 
